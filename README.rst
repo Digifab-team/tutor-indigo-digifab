@@ -17,7 +17,7 @@ Indigo was specially developed to be used with `Tutor <https://docs.tutor.overha
 
 Since Tutor v13.2.0, Indigo can be installed as a Tutor plugin::
 
-    tutor plugins install indigo
+    pip install git+https://github.com/Digifab-team/tutor-indigo-digifab
     tutor plugins enable indigo
     tutor config save
 
